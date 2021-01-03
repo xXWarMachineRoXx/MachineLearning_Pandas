@@ -1,2 +1,6 @@
 # MachineLearning_Pandas
-Practice Python with pandas and  matplotlib/Seaborn for visualization
+Practice Python with Jupyter Notebook , pandas and  matplotlib/Seaborn for visualization
+
+
+
+
