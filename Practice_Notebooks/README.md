@@ -1,1 +1,1 @@
-<img src="hello/Jupyter-notebook-Definitive-Guide_ul01sa.jpg">
+<img src="733-7336229_make-jupyter-notebooks-easy-to-blog-in-wordpress.png">
